@@ -1,0 +1,8 @@
+LICENSE
+README.rst
+setup.py
+testrepo/__init__.py
+testrepo.egg-info/PKG-INFO
+testrepo.egg-info/SOURCES.txt
+testrepo.egg-info/dependency_links.txt
+testrepo.egg-info/top_level.txt
