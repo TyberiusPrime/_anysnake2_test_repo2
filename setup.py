@@ -13,8 +13,8 @@ with open("README.rst", "rb") as f:
     long_descr = f.read().decode("utf-8")
 
 setup(
-    name="testrepo",
-    packages=["testrepo"],
+    name="testrepo2",
+    packages=["testrepo2"],
     version=version,
     description="Example package with a requirement that the anysnake2 must provide",
     long_description=long_descr,
@@ -22,6 +22,5 @@ setup(
     author_email="nope",
     url="",
     install_requires=[
-        "testrepo2"
     ],
 )
